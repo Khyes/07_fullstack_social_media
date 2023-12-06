@@ -22,7 +22,7 @@ function App() {
       <Route element={<RootLayout />}>
         <Route index element={<Home />} />
       </Route>
-      
+
     </Routes>
    </main>
   )
