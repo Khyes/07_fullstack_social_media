@@ -1,3 +1,9 @@
-import { Facebook } from "lucide-react";
+import React from 'react'
 
-Facebook
+const UpdateProfile = () => {
+  return (
+    <div>UpdateProfile</div>
+  )
+}
+
+export default UpdateProfile
